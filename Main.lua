@@ -2,9 +2,9 @@ local CoreGui = game:GetService("CoreGui")
 local UIS = game:GetService("UserInputService")
 local TS = game:GetService("TweenService")
 
-local Anim = require(Elements.Animator)
-local Icons = require(Elements.Icons)
-local Widgets = require(Elements.Widgets)
+local Anim = require(script.Elements.Animator)
+local Icons = require(script.Elements.Icons)
+local Widgets = require(script.Elements.Widgets)
 
 local Library = {}
 
