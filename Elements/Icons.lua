@@ -1,6 +1,6 @@
 local Icons = {}
 
-local fetched = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Footagesus/Icons/main/Main.lua"))()
+local fetched = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/Icons/main/Main.lua"))()
 
 Icons.Names = {
 	"house", "settings", "user", "users", "search",
