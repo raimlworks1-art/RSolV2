@@ -1,5 +1,5 @@
 local UIS = game:GetService("UserInputService")
-local Anim = require("Animator")
+local Anim = require(Animator)
 
 local Widgets = {}
 
